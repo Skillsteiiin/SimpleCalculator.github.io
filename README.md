@@ -1,1 +1,0 @@
-# SimpleCalculator.github.io
